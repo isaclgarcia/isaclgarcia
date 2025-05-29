@@ -8,6 +8,6 @@
 ## 💼 Minhas skills
 - Testes manuais e documentação (em aprendizado)
 - Git e GitHub
-- Lógica de programação (C++)
+- Lógica de programação (C++ e Java)
 - Ferramentas: Trello, Notion, Google Docs
 - Interesse em automação com Cypress e testes em nuvem
