@@ -1,16 +1,13 @@
-### Hi there 👋
+# Olá! Eu sou a Isa 👋
 
-<!--
-**isaclgarcia/isaclgarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Engenharia da Computação  
+🔍 Em transição de carreira para a área de Quality Assurance  
+📚 Estudando QA, Cloud Computing (AWS) e Lógica de Programação  
+🚀 Aqui compartilharei meus projetos, testes e aprendizados técnicos  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Minhas skills
+- Testes manuais e documentação (em aprendizado)
+- Git e GitHub
+- Lógica de programação (C++)
+- Ferramentas: Trello, Notion, Google Docs
+- Interesse em automação com Cypress e testes em nuvem
