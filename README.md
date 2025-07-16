@@ -1,16 +1,14 @@
 <h2 align="left">🎓 Estudante de Engenharia da Computação  
-🔍 Em transição de carreira para a área de Quality Assurance  
-📚 Estudando QA, Cloud Computing (AWS) e Lógica de Programação  
-🚀 Aqui compartilharei meus projetos, testes e aprendizados técnicos  
+  🔍 Em transição de carreira para a área de Quality Assurance  
+  📚 Estudando QA, Cloud Computing (AWS) e Lógica de Programação  
+  🚀 Aqui compartilharei meus projetos, testes e aprendizados técnicos  
 
-## 💼 Minhas skills
-- Testes manuais e documentação (em aprendizado)
-- Git e GitHub
-- Lógica de programação (C++ e Java)
-- Ferramentas: Trello, Notion, Google Docs
-- Interesse em automação com Cypress e testes em nuvem</h2>
-
-###
+   💼 Minhas skills
+    - Testes manuais e documentação (em aprendizado)
+    - Git e GitHub
+    - Lógica de programação (C++ e Java)
+    - Ferramentas: Trello, Notion, Google Docs
+    - Interesse em automação com Cypress e testes em nuvem</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
