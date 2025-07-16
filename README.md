@@ -18,7 +18,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.linkedin.com%2Fposts%2Fmpadrao_aws-restart-graduate-was-issued-by-amazon-activity-7261438909803331584-dQrO&psig=AOvVaw3JzDMuH_tOsvZoHZMm7QCu&ust=1752763913332000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPivp8nQwY4DFQAAAAAdAAAAABAE"  />
 
 ###
 
