@@ -1,4 +1,14 @@
-<h2 align="left">Hi 👋! My name is Isa  and I'm a Computer Engineering student, from Brazil</h2>
+<h2 align="left">🎓 Estudante de Engenharia da Computação  
+🔍 Em transição de carreira para a área de Quality Assurance  
+📚 Estudando QA, Cloud Computing (AWS) e Lógica de Programação  
+🚀 Aqui compartilharei meus projetos, testes e aprendizados técnicos  
+
+## 💼 Minhas skills
+- Testes manuais e documentação (em aprendizado)
+- Git e GitHub
+- Lógica de programação (C++ e Java)
+- Ferramentas: Trello, Notion, Google Docs
+- Interesse em automação com Cypress e testes em nuvem</h2>
 
 ###
 
