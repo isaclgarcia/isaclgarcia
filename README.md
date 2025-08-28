@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Isa </h1>
 
 <p align="center">
-  Computer Engineering Student | QA Enthusiast | Cloud & Automation Learner
+  Computer Engineering Student | QA | Cloud & Automation Learner
 </p>
 
 ---
