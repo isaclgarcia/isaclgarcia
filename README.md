@@ -1,40 +1,15 @@
 <h1 align="center">Hi, I'm Isa </h1>
 
 <p align="center">
-  Computer Engineering Student | QA | Cloud & Automation Learner
+   
 </p>
 
 ---
 
 ### About Me
 
-Hi, I’m Isa. I’m studying Computer Engineering and interested in Quality Assurance. I’m learning testing, automation, and AWS.
+Hi, I’m Isa. I’m studying Computer Engineering
 
----
-
-### 🛠 Technologies & Tools
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  <img src="https://img.shields.io/badge/AWS-Cloud-orange?style=flat&logo=amazonaws&logoColor=white" alt="AWS" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
-</div>
-
----
-
-### 📚 Currently Learning
-
-- Test Automation with Cypress  
-- Advanced AWS Developer topics  
-- API testing and automation scripting  
-- Test documentation best practices  
-
----
 
 ###  Certification
 
